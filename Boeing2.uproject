@@ -9,18 +9,16 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OpenXR",
+			"Name": "ChaosVehiclesPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "OculusVR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
-				"Linux",
-				"Android",
-				"HoloLens"
+				"Android"
 			]
-		},
-		{
-			"Name": "ChaosVehiclesPlugin",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
