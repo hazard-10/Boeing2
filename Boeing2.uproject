@@ -29,6 +29,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "KATVRUniversalSDK",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
