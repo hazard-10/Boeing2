@@ -78,3 +78,4 @@ Source/Boeing2Editor.Target.cs
 Source/Boeing2/Boeing2.Build.cs
 Source/Boeing2.Target.cs
 .vsconfig
+Boeing2.uproject
