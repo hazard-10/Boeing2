@@ -77,7 +77,6 @@ DerivedDataCache/*
 Source/Boeing2Editor.Target.cs
 Source/Boeing2/Boeing2.Build.cs
 Source/Boeing2.Target.cs
-/.vsconfig
+.vsconfig
 Boeing2.uproject
-Source/Boeing2/Private/MyClass.cpp
-Source/Boeing2/Public/MyClass.h
+Content/VRTemplate/Blueprints/VRGameMode.uasset
